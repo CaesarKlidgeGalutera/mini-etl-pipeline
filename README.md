@@ -10,7 +10,7 @@ It’s designed to be deployable in a cloud function environment (e.g., AWS Lamb
 ![dotenv](https://img.shields.io/badge/dotenv-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
 
 ## ⚙️Architecture
-![Data Architecture Diagram](Documentation/Architecture.jpg)
+![Data Architecture Diagram](Documentation/Data%20Architecture%20Diagram.jpg)
 ## 🔁ETL Flow
 Extract – Fetch weather data for a specific city (Pasig by default).
 
