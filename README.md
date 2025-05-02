@@ -1,4 +1,4 @@
-# 🌦️Mini ETL Pipeline with OpenWeather API and AWS S3
+# 🌦️Serverless ETL Pipeline with OpenWeather API and AWS S3
 
 ## 📌Introduction
 This project demonstrates a lightweight ETL (Extract, Transform, Load) pipeline using Python and cloud technologies. The script fetches real-time weather data from the OpenWeatherMap API, processes it to extract key metrics, and uploads the results to an AWS S3 bucket in JSON format.
